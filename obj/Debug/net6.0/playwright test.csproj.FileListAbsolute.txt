@@ -1,0 +1,4 @@
+C:\Users\v-kikonere\playwrightdemo\playwright test\obj\Debug\net6.0\playwright test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-kikonere\playwrightdemo\playwright test\obj\Debug\net6.0\playwright test.AssemblyInfoInputs.cache
+C:\Users\v-kikonere\playwrightdemo\playwright test\obj\Debug\net6.0\playwright test.AssemblyInfo.cs
+C:\Users\v-kikonere\playwrightdemo\playwright test\obj\Debug\net6.0\playwright test.csproj.CoreCompileInputs.cache
